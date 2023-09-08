@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Tic-Tac-Toe 3\bin\Debug\Tic-Tac-Toe 3.exe.config
+C:\Users\ASUS\source\repos\Tic-Tac-Toe 3\bin\Debug\Tic-Tac-Toe 3.exe
+C:\Users\ASUS\source\repos\Tic-Tac-Toe 3\bin\Debug\Tic-Tac-Toe 3.pdb
+C:\Users\ASUS\source\repos\Tic-Tac-Toe 3\obj\Debug\Tic-Tac-Toe 3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Tic-Tac-Toe 3\obj\Debug\Tic-Tac-Toe 3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Tic-Tac-Toe 3\obj\Debug\Tic-Tac-Toe 3.exe
+C:\Users\ASUS\source\repos\Tic-Tac-Toe 3\obj\Debug\Tic-Tac-Toe 3.pdb
